@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&display=swap');
+
+body{
+  background-color: #f0f2f5;
+}
+.btn-footer:hover{
+  background-color: gainsboro;
+}
+
+.logo{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  color: rgb(19, 19, 111);
+}
+.register{
+  cursor: pointer;
+}
